@@ -7,6 +7,7 @@
 *.o
 *.so
 
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
@@ -19,7 +20,6 @@
 *.rar
 *.tar
 *.zip
-
 # Logs and databases #
 ######################
 *.log
@@ -35,3 +35,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.swp
+*.pyc
